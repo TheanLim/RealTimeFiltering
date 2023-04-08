@@ -7,7 +7,7 @@ MacOS Ventura 13.0.1 (22A400)
 IDE:
 XCode
 
-##Instructions:
+## Instructions:
 Run vidDisplay.cpp
 Some useful hotkeys:
 - n = No Filtering
